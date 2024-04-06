@@ -1,10 +1,10 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=120&section=header&text=Gracey%20git&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=120&section=header&text=It's%20Gracey's!&fontSize=70)
 
 **usgnib127/usgnib127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Here are some ideas to get you started**
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
