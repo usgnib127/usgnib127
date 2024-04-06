@@ -1,10 +1,11 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:ffd900,90:f56ee7&height=120&section=header&text=It's%20Gracey!&fontSize=70)
 <div align=center>
-<i>I don't dirnk coffee, I take tea.</i>
+<i>I don't dirnk coffee, I take tea my dear.</i>
 
 <h4>:honeybee:Who Am I</h4>
-
+- Just started to learn programming
+- Guess I long did it take to make this profile
 
 <h4>✨Skills</h4>
 
