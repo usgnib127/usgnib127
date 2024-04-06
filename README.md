@@ -20,8 +20,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true)
 
 <h4>🔭Languages</h4>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 :ghost:
