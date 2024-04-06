@@ -1,19 +1,19 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:ffd900,90:f56ee7&height=120&section=header&text=It's%20Gracey!&fontSize=70)
-<div align=center>
 <i>I don't dirnk coffee, I take tea, my dear.</i>
 
-<h1>:honeybee:**Who Am I**</h1>
+<div align=center>
+<h3>:honeybee:**Who Am I**</h3>
 
 
-<h1>✨**Skills**</h1>
+<h3>✨**Skills**</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<h1>:rocket:**Experience**</h1>
+<h3>:rocket:**Experience**</h3>
 
 
-<h1>🔭**Stats**</h1>
+<h3>🔭**Stats**</h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true)
 
