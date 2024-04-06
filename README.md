@@ -24,7 +24,7 @@
 
 <h4>🔭Languages</h4>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&langs_count=10&layout=donut-vertical)](https://github.com/usgnib127/usgnib127)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&langs_count=10&layout=compact)](https://github.com/usgnib127/usgnib127)
 
 :ghost:
 :honeybee:
