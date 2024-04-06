@@ -18,11 +18,12 @@
 - Accounting
 - Real estate Trust 
 
-<h4>:ghost:Stats&Languages</h4>
+<h4>:ghost:Stat</h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true) <a href="https://github.com/usgnib127"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&layout=compact&theme=nord&hide_border=true" /></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true)
 
 <h4>🔭Languages</h4>
+
 <a href="https://github.com/usgnib127"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
