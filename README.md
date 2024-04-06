@@ -12,11 +12,16 @@
 
 <h4>:rocket:Experience</h4>
 
-<h4>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&layout=compact)](https://github.com/usgnib127/github-readme-stats)</h4>
+- Accounting
+- Real estate Trust 
 
-<h4>🔭Stats</h4>
+<h4>:ghost:Stats</h4>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true)
+
+<h4>🔭Languages</h4>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
 </div>
 :ghost:
