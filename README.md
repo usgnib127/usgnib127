@@ -25,7 +25,7 @@
 <h4>🔭Languages</h4>
 
 <a href="https://github.com/usgnib127"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&layout=compact&theme=nord&hide_border=true" /></a> 
-
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&langs_count=10&layout=compact&theme=dark)](https://github.com/usgnib127/usgnib127)
 
 :ghost:
 :honeybee:
