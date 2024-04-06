@@ -5,8 +5,8 @@
 </div>
 
 <h4>:honeybee:Who Am I</h4>
-- Just started to learn programming.
 
+- Just started to learn programming.
 - Guess how long did it take to make this profile.
 
 <h4>✨Skills</h4>
