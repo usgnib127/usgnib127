@@ -1,10 +1,10 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:ffd900,90:f56ee7&height=120&section=header&text=It's%20Gracey!&fontSize=70)
 <div align=center>
-<i>in New York</i>
+<i>I don't dirnk coffee, I take tea.</i>
 
 <h4>:honeybee:Who Am I</h4>
-> I don't dirnk coffee, I take tea.
+
 
 <h4>✨Skills</h4>
 
@@ -12,6 +12,7 @@
 
 <h4>:rocket:Experience</h4>
 
+<h4>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&layout=compact)](https://github.com/usgnib127/github-readme-stats)</h4>
 
 <h4>🔭Stats</h4>
 
