@@ -20,11 +20,11 @@
 
 <h4>:ghost:Stat</h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true) ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&langs_count=10&layout=compact&theme=dark)](https://github.com/usgnib127/usgnib127)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true) ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&langs_count=5&layout=compact&theme=dark)](https://github.com/usgnib127/usgnib127)
 
 <h4>🔭Languages</h4>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&langs_count=10&layout=compact&theme=dark)](https://github.com/usgnib127/usgnib127)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usgnib127&langs_count=10&layout=compact)](https://github.com/usgnib127/usgnib127)
 
 :ghost:
 :honeybee:
