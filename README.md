@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:ffd900,90:f56ee7&height=120&section=header&text=It's%20Gracey!&fontSize=70)
 <div align=center>
-<i>I don't dirnk coffee, I take tea my dear.</i>
+<i>I don't dirnk coffee, I take tea.</i>
 </div>
 
 <h4>:honeybee:Who Am I</h4>
