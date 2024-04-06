@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=120&section=header&text=It's%20Gracey's!&fontSize=70)
-
-I don't dirnk coffee, I take tea, my dear. 
+<p align="center">
+I don't dirnk coffee, I take tea, my dear.
+</p>
 
 ✨**Skills**
 
