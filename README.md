@@ -20,7 +20,7 @@
 
 <h4>:ghost:Stat</h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=shodow_blue&show_icons=true) ![GitHub stats][(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_blue)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=shodow_blue&show_icons=true)
 
 <h4>🔭Languages</h4>
 
