@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:#ffd500,70%:a82da8&height=120&section=header&text=It's%20Gracey's!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=&color=0:EEFF00,100:a82da8&height=120&section=header&text=It's%20Gracey!&fontSize=70)
+
 <p align="center">
 I don't dirnk coffee, I take tea, my dear.
 </p>
