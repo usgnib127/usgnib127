@@ -10,9 +10,9 @@ I don't dirnk coffee, I take tea, my dear.
 
 🔭**Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=ambient_gradient&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usgnib127&theme=dracula&show_icons=true)
 
-
+![Repo Card](https://github-readme-repo card.vercel.app/api?username=anuraghazra&theme=transparentshow_icons=true)
 - ✨ _special_ ✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
